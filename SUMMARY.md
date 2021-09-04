@@ -2,7 +2,7 @@
 
 * [atato manifesto](README.md)
 * [Computing is broken](the-problem.md)
-* [And it's a big deal](why-it-matters.md)
+* [That's a big deal](why-it-matters.md)
 * [What if we fixed it](what-if-it-was-fixed.md)
 * [We can fix it](why-we-can-solve-it.md)
 * [With secure compute](how-we-will-solve-it.md)

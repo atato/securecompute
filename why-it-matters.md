@@ -1,4 +1,4 @@
-# Why it matters
+# That's a big deal
 
 ## Computers are amazing machines
 
@@ -32,6 +32,5 @@ A few months ago, a friend called me and asked me for advice. He wanted to outso
 
 Last week, my sister wanted to make a bank transfer. She’s living in Europe, and banks there use the SEPA bank transfer network. She wanted to send money outside of Europe, and the receiving bank used another transfer network called SWIFT. She had trouble navigating her online banking menus and options and asked for my help. While she had the money on her account, we found out that her bank didn’t allow for online SWIFT transfers, but only the European SEPA. She had to call her bank’s call center, and it took a few calls before an agent capable of helping her was on the line. After she managed to make her transfer, she called me and was shaken by the realization that her money is not ‘hers’ as much as it is the property of her bank’s software and processes.
 
-Just a few days ago, a colleague and I needed to sign documents sent by a customer. I was not at home or in the office, and neither was my colleague. The documents were urgent, and so we sent back an electronic signature of a PDF file. Our customer couldn’t accept electronic signatures, due to the nature of the documents and their internal policies. They had to wait a few days so that both my colleague and I had access to a printer, a messenger so that they could receive paper copies of what we submitted a few days before in a format that was arguably more secure. This time I wondered, why do some of us still have such distrust in computer files, and why should it be a problem that I have to deal with?  
-
+Just a few days ago, a colleague and I needed to sign documents sent by a customer. I was not at home or in the office, and neither was my colleague. The documents were urgent, and so we sent back an electronic signature of a PDF file. Our customer couldn’t accept electronic signatures, due to the nature of the documents and their internal policies. They had to wait a few days so that both my colleague and I had access to a printer, a messenger so that they could receive paper copies of what we submitted a few days before in a format that was arguably more secure. This time I wondered, why do some of us still have such distrust in computer files, and why should it be a problem that I have to deal with?
 
