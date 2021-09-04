@@ -8,5 +8,4 @@
 * [With secure compute](how-we-will-solve-it.md)
 * [What we are doing](what-is-atato-doing.md)
 * [What you can do](what-you-can-do.md)
-* [Conclusion](conclusion.md)
 
