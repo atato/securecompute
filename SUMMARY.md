@@ -1,11 +1,14 @@
 # Table of contents
 
-* [atato manifesto](README.md)
-* [Computing is broken](the-problem.md)
-* [That's a big deal](why-it-matters.md)
-* [We're missing out](what-if-it-was-fixed.md)
-* [And we can fix it](why-we-can-solve-it.md)
-* [With secure compute](how-we-will-solve-it.md)
-* [What we are doing](what-is-atato-doing.md)
-* [What you can do](what-you-can-do.md)
+* [Intro](README.md)
+
+## Atato Manifesto
+
+* [Computing is broken](atato-manifesto/the-problem.md)
+* [That's a big deal](atato-manifesto/why-it-matters.md)
+* [We're missing out](atato-manifesto/what-if-it-was-fixed.md)
+* [And we can fix it](atato-manifesto/why-we-can-solve-it.md)
+* [With secure compute](atato-manifesto/how-we-will-solve-it.md)
+* [What we are doing](atato-manifesto/what-is-atato-doing.md)
+* [What you can do](atato-manifesto/what-you-can-do.md)
 

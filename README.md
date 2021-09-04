@@ -4,9 +4,9 @@ description: >-
   using blockchains since 2013.
 ---
 
-# atato manifesto
+# Intro
 
-## **What this is**
+## **What is this**
 
 This is not a whitepaper, you can relax, we are not selling you a token. This is not an academic document, we are not publishing our latest research findings nor the results of an exciting experiment. This is not a sales pitch, there's nothing to buy.
 
