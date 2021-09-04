@@ -1,4 +1,4 @@
-# And we can fix it
+# We can fix it
 
 ## 50 years of computer science breakthroughs
 
