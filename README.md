@@ -1,7 +1,7 @@
 ---
 description: >-
   Computers are not personal anymore, secure computing is here. What I learned
-  using blockchains for 8 years.
+  using blockchains since 2013.
 ---
 
 # atato manifesto
