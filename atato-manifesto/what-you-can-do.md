@@ -14,7 +14,11 @@ Perhaps the most significant challenge will be to get the ball rolling. Each of 
 
 The biggest 'secure computing' community is undeniably the [ethereum](http://ethereum.org/) community. Ethereum used to call itself "the world computer" and we're getting closed to this vision everyday. Think of Ethereum's mainnet as one particular secure computer. Polygon, Binance, and other layer2/sidechain solutions all can be thought of as Ethereum-compatible secure computers. Kind of like the x86 family of CPUs. While ethereum itself does not have built-in confidentiality, a [number](https://www.deco.works/) of [teams](https://www.enigma.co/) and [startups](https://aztec.network/) are [working](https://scrt.network/) on enabling it. And if you'd like to learn more about ethereum, check out your local [meetups](https://www.meetup.com/find/?keywords=ethereum&source=EVENTS) and [events](https://www.eventbrite.com/). Of course if you're in Bangkok, [join us](https://www.meetup.com/bkkblockchain/)!
 
+If you're in the US, consider joining the secure and [private compute summit 2022](https://www.kisacoresearch.com/events/secure-and-private-compute-summit) in Washington. Consider also joining the fully homomorphic encryption [\(FHE\) community](https://www.meetup.com/fhe-org/) run by [zama.ai](https://zama.ai/). And for sure there are many more amazing communities in the same space with a shared vision. Feel free to edit this page and let everyone know you!
+
 ## And contribute
+
+And if your community has a similar vision, and you feel that we should work together, please do get in touch, check out [https://github.com/atato/securecompute](https://github.com/atato/securecompute) and do not hesitate to contribute! 
 
 ## Practically
 
