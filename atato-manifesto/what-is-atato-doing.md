@@ -14,5 +14,13 @@ Our goal is to make it easier to interact with blockchains. We let you use secur
 
 ## To enable the next 100 million users
 
+[Atato custody](https://www.atato.com/atato-custody/) is a modern digital assets custody platform where businesses can securely store and manage their cryptocurrencies using a web application, mobile application and APIs. We want to help businesses save time and money by creating a simple but yet powerful service for them to make deposits, withdrawals and use dApps.
+
+Using multi-party computation, we abstract the concept of private keys, and enable new wallet recovery scenarios. This allows businesses such as digital asset service providers, exchanges, brokers, and other financial institutions to onboard a large number of users, securely and at a low cost. Small businesses also use our solutions to secure their crypto holdings.
+
+Making blockchain transactions is how we interact with blockchains today, and our goal is to provide a simple, yet secure interface to use secure computers. Signing a transaction does not have to be a complex operation, and must be as easy as saving a file. As the vast majority of decentralized applications today are based on tokens, ERC20 and ERC721, these are the key features of our custody solution today. As the types of decentralized applications continues to evolve, our goal is to ensure that businesses have a secure access to them.
+
 ## Practically
+
+
 
