@@ -10,6 +10,8 @@ Once we have a good understanding of what we're missing out on, then we can star
 
 ## Join the community
 
+Perhaps the most significant challenge will be to get the ball rolling. Each of the communities of information security, cryptocurrencies, blockchain, zero-knowledge proofs, multiparty computation, fully homomorphic encryption, crypto anarchists and cypherpunks have a reasonably clear vision of how they are advancing their agenda and information security. Getting at least parts of each community to join a broader movement to build secure computers will be a gradual process, one that will probably require compromises to individual visions.
+
 The biggest 'secure computing' community is undeniably the [ethereum](http://ethereum.org/) community. Ethereum used to call itself "the world computer" and we're getting closed to this vision everyday. Think of Ethereum's mainnet as one particular secure computer. Polygon, Binance, and other layer2/sidechain solutions all can be thought of as Ethereum-compatible secure computers. Kind of like the x86 family of CPUs. While ethereum itself does not have built-in confidentiality, a [number](https://www.deco.works/) of [teams](https://www.enigma.co/) and [startups](https://aztec.network/) are [working](https://scrt.network/) on enabling it. And if you'd like to learn more about ethereum, check out your local [meetups](https://www.meetup.com/find/?keywords=ethereum&source=EVENTS) and [events](https://www.eventbrite.com/). Of course if you're in Bangkok, [join us](https://www.meetup.com/bkkblockchain/)!
 
 ## And contribute
