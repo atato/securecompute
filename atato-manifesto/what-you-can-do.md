@@ -18,9 +18,15 @@ If you're in the US, consider joining the secure and [private compute summit 202
 
 ## And contribute
 
+How can you contribute? The most important if you can is to contribute your time, and there are a number of things you can do it you're ready and willing to do this. Check-out [our practical propositions](how-we-will-solve-it.md#practically) of what we as a community should be working on right now.
 
+You might contribute your knowledge, and provide feedback on the model we outlined here, point out things that do not sound right to you and help us outline a better vision for everyone. You might be part of one of the teams we spoke about here, or be a user of their products. If this article sounds interesting to you then spread the word, our goal is to assemble like minded people to get to work on building secure computers.
 
-## Practically
+You might have access to people you think can help the secure compute community progress. If you do, please get them engaged with this material and the community. Building secure computers will not be a one-company thing, just like on single company built the internet. We're going to need help at all the different layers of secure computers to make them a reality, and it's only by working together that we will make this vision a reality. 
+
+You might be looking to deploy capital, and make investments into startups who want to rethink the way computers are built and operated, in this case please keep an eye on the companies active in the community, and if you're unsure who's working on what then take some time to join us and learn more. We're going to need all the help we can get. 
+
+## Outro
 
 After 50 years, computer science is experiencing a paradigm shift. This shift will affect every facet of information technology; how we build products, what problems they solve, and how they integrate into our lives. Cryptography and blockchains are the driving forces tearing apart the notion of personal computers and inventing privacy-preserving, secured computing. The implications for individuals, families, businesses, and society are profound and not fully understood. An enormous amount of work lies ahead to create tomorrow’s computing. Companies like atato are building what will power tomorrow’s tech industry. Come and join us!
 
