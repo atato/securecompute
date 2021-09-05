@@ -6,11 +6,11 @@ Cisco estimates that there are between 20 and 30 billion connected devices acros
 
 All these devices are built on the same fundamental design. Central processing units are given computation instructions, they retrieve the input data required for the computation, execute the computation, and then store the output data. This cycle is repeated billions of times each second, and this allows your smartphone to connect to the internet, a server to send you this article, and your screen to display its contents.
 
-Subtle variations exist, for example in the way in which instructions are executed, or how data is accessed and stored, or on the number and arrangement of processing units. But it is important to understand that these 20 billion connected devices were all built for one purpose: process as quickly as possible any instructions they’re given on any data they’re given.
+Subtle variations exist, for example in the way in which instructions are executed, or how data is accessed and stored, or on the number and arrangement of processing units. But it is important to understand that these 20 billion connected devices were all built for one purpose: process as quickly as possible any instructions they’re given on the data they’ve got.
 
 ## **But running a 50-year-old design**
 
-Fundamental parts of computer design and objectives are much older than some people realize. It is generally accepted that modern computer architecture was created in the late 1970s with Intel’s 8000 series of microprocessors, and later the first IBM PC in 1981. We could even argue that computers still use the same architecture as the IBM Harvard Mark 1, released in 1944.
+Fundamental parts of computers' design are much older than some people realize. It is generally accepted that the modern computer architecture was created in the late 1970s with Intel’s 8000 series of microprocessors, and later the first IBM PC in 1981. We could even argue that computers still use the same architecture as the IBM Harvard Mark 1, released in 1944.
 
 Performance, however, cannot be compared. An interesting metric is the dollar cost per GFLOPS or billions of floating-point operations per second, it measures the cost of a unit of performance as computer hardware evolves. Since 1984, when Bill Gates was first featured on the cover of TIME magazine, this cost has gone down from $46 million to 3 cents. That’s a staggering 99.9999999% reduction over 40 years. The success in processing as fast as possible any instructions on any data is undeniable.
 
